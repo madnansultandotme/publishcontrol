@@ -1,0 +1,1 @@
+"""PublishControl desktop npm publisher."""
